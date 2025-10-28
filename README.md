@@ -7,12 +7,12 @@ combines a PyTorch-based classifier, a Picamera 2 imaging pipeline, and a
 
 ## Features
 
-- ✅ **Automated bird recognition** using a fine-tuned MobileNetV2 classifier.
-- 📹 **Low-latency live stream** rendered from the Raspberry Pi camera with
+-  **Automated bird recognition** using a fine-tuned MobileNetV2 classifier.
+-  **Low-latency live stream** rendered from the Raspberry Pi camera with
   inference overlays.
-- 🛠️ **Hardware documentation and CAD scaffolding** for fabricating the feeder
+-  **Hardware documentation and CAD scaffolding** for fabricating the feeder
   enclosure and mounting hardware.
-- 🧰 **Unified CLI** (`python -m nestwatch.cli`) to train, export, deploy, and
+-  **Unified CLI** (`python -m nestwatch.cli`) to train, export, deploy, and
   test the model across environments.
 
 ## Repository layout

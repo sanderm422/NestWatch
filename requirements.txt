@@ -1,0 +1,16 @@
+# Core training and inference
+torch
+torchvision
+tqdm
+opencv-python
+requests
+numpy
+
+# Raspberry Pi camera support
+picamera2
+
+# Dataset acquisition
+duckduckgo-search
+
+# Optional demos
+face-recognition
